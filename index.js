@@ -1,3 +1,4 @@
+require('dotenv').config();
 // ============================================================
 // BotForge Bot - index.js
 // Auto-loads ALL commands + custom code from your panel
